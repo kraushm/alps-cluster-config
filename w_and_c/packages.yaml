@@ -12,7 +12,7 @@ packages:
   slurm:
     buildable: false
     externals:
-    - spec: slurm@20-11-9
+    - spec: slurm@22-05-2
       prefix: /usr
   rdma-core:
     buildable: false
